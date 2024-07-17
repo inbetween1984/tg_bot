@@ -1,6 +1,6 @@
-BOT_TOKEN = '7353864880:AAGhlJKVSfNrVvPqPk1qBJsQ7Cm5S7fJIsg'
-PAY_TOKEN = '381764678:TEST:89876'
+BOT_TOKEN = 'ваш_токен_бота'
+PAY_TOKEN = 'токен_для_оплаты'
 
-SERVICE_ACC = 'karlsn44-service@tgbotproject-429411.iam.gserviceaccount.com'
+SERVICE_ACC = 'сервисный_аккаунт_для_взаимодействия_с_облаком'
 
 TABLE_NAME = "гугл_табличка"
